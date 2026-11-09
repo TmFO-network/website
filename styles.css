@@ -1,0 +1,24 @@
+/* 1. Remove top and bottom padding from the navbar container */
+.navbar {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* 2. Make the brand container span the full height of the navbar */
+.navbar-brand {
+  display: flex !important;
+  align-items: stretch; /* Stretches the link area to full height */
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  height: 50px; /* Define an explicit navbar height (adjust as needed) */
+  /* Set a fixed maximum width for the logo area so links don't move */
+  min-width: 100px; /* Adjust this to match your logo's approximate width */
+}
+
+/* 3. Force the logo image to match the container perfectly */
+.navbar-brand .navbar-logo {
+  height: 100% !important;
+  max-height: 100% !important;
+  width: auto; /* Keeps the aspect ratio intact */
+  object-fit: contain; 
+}

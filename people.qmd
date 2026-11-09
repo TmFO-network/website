@@ -1,0 +1,37 @@
+---
+title: "People"
+#image: files/group.jpeg
+page-layout: full
+date-format: "YYYY-MM"
+listing:
+- id: coord-team
+  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  categories: true
+  contents: 
+    - /people/plinio-sist.yml  
+    - /people/camille-piponiot.yml
+  field-display-names: 
+      title: "Name"
+      subtitle: "Institution"
+
+page-navigation: false
+title-block-banner: false
+toc: false
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+
+## Team
+
+:::{#coord-team}
+:::
+
+

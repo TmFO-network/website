@@ -1,0 +1,11 @@
+---
+title: "Publications"
+filters:
+  - filters/publications-by-year.lua
+# Optional settings read by the filter:
+publications-bib: references.bib   # path to your .bib file
+# csl: apa.csl                     # optional citation style (download from zotero.org/styles)
+---
+
+::: {#publications-by-year}
+:::

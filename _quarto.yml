@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: docs
+  pre-render: Rscript r/generate_sites.R
+
+website:
+  title: "TmFO network"
+  description: "Tropical managed Forests Observatory"
+ 
+  navbar:
+    background: dark
+    logo: files/images/TmFO_logo_new.jpg
+    logo-alt: "TmFO Logo"
+    logo-href: index.html  
+    title: false
+
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: People
+        href: people.qmd
+      - text: Sites
+        href: sites.qmd
+      - text: Data
+        href: data.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Contact
+        href: contact.qmd
+  
+  page-navigation: true
+  
+  search:
+    location: navbar
+    type: textbox
+  
+  reader-mode: false
+
+  repo-url: https://github.com/TmFO-network/website
+  
+  open-graph: true
+  
+  site-url: "https://tmfo.org"
+  
+bibliography: references.bib
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+
