@@ -82,7 +82,7 @@ for (i in seq_len(nrow(sites))) {
     "",
     marker,
     "",
-    "[\u2190 Back to the map](../map.html)",
+    "[\u2190 Back to the map](../sites.html)",
     ""
   )
   lines <- c(lines, info_section(r))

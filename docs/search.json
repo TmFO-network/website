@@ -224,11 +224,39 @@
     "text": "AR\nAdemir Roberto Ruschel\nEmbrapa\n\n\nAK\nAnders Karlsson\nSLU\n\n\nBH\nBruno Hérault\nCIRAD\n\n\nCS\nCintia Rodrigues de Souza\nEmbrapa Amazonia Ocidental\n\n\nDB\nDavid F. R. P. Burslem\nUniversity of Aberdeen\n\n\nEV\nEdson Vidal\nESALQ\n\n\nED\nEstelle Dugachard\nONF-International\n\n\nEH\nEuridice Honorio\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nGD\nGeraldine Derroire\nCIRAD\n\n\nIZ\nIrie Casimir Zo-bi\nInstitut National Polytechnique Félix Houphouët-Boigny\n\n\nJA\nJhon del Aguila\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nKR\nKen Rodney\nIwokrama Timber Inc.\n\n\nMK\nMilton Kanashiro\nEmbrapa\n\n\nNA\nNataly Ascarrunz\nInstituto Boliviano de Investigación Forestal\n\n\nNS\nNur Hajar Zamah Shari\nForest Research Institute Malaysia\n\n\nOB\nOlivier Brunaux\nONF Guyane\n\n\nSC\nSamuel de Padua Chaves e Carvalho\nUMFT\n\n\nVW\nVerginia Wortel\nCelos\n\n\nVR\nVivien Rossi\nCIRAD\n\n\nAB\nAlan Bernardes\nONF Brasil"
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
     "title": "People",
     "section": "",
-    "text": "CIRAD\n\n\n\n\n\n\n\n\n\n\n\n\n\nCIRAD\n\n\n\n\n\nNo matching items"
+    "text": "AR\nAdemir Roberto Ruschel\nEmbrapa\n\n\nAK\nAnders Karlsson\nSLU\n\n\nBH\nBruno Hérault\nCIRAD\n\n\nCS\nCintia Rodrigues de Souza\nEmbrapa Amazonia Ocidental\n\n\nDB\nDavid F. R. P. Burslem\nUniversity of Aberdeen\n\n\nEV\nEdson Vidal\nESALQ\n\n\nED\nEstelle Dugachard\nONF-International\n\n\nEH\nEuridice Honorio\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nGD\nGeraldine Derroire\nCIRAD\n\n\nIZ\nIrie Casimir Zo-bi\nInstitut National Polytechnique Félix Houphouët-Boigny\n\n\nJA\nJhon del Aguila\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nKR\nKen Rodney\nIwokrama Timber Inc.\n\n\nMK\nMilton Kanashiro\nEmbrapa\n\n\nNA\nNataly Ascarrunz\nInstituto Boliviano de Investigación Forestal\n\n\nNS\nNur Hajar Zamah Shari\nForest Research Institute Malaysia\n\n\nOB\nOlivier Brunaux\nONF Guyane\n\n\nSC\nSamuel de Padua Chaves e Carvalho\nUMFT\n\n\nVW\nVerginia Wortel\nCelos\n\n\nVR\nVivien Rossi\nCIRAD\n\n\nAB\nAlan Bernardes\nONF Brasil"
+  },
+  {
+    "objectID": "people.html#coordinator",
+    "href": "people.html#coordinator",
+    "title": "People",
+    "section": "Coordinator",
+    "text": "Coordinator\n\n\nCamille Piponiot\nCIRAD\n\n\nPlinio Sist\nCIRAD"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\nEM\nEliott Maurent\nCIRAD"
+  },
+  {
+    "objectID": "people.html#collaborator",
+    "href": "people.html#collaborator",
+    "title": "People",
+    "section": "Collaborator",
+    "text": "Collaborator\n\n\nJP\nJack Putz\nUniversity of Florida\n\n\nLB\nLilian Blanc\nCIRAD\n\n\nMB\nMarie Ange Ngo Bieng\nCIRAD\n\n\nMP\nMarielos Pena-Claros\nWageningen University and Research\n\n\nMP\nMichelle A. Pinard\nUniversity of Aberdeen\n\n\nEB\nEthan Belair\nNature Conservancy\n\n\nRA\nRaphael Aussenac\nCIRAD, Institut National Polytechnique Félix Houphouët-Boigny"
+  },
+  {
+    "objectID": "people.html#student",
+    "href": "people.html#student",
+    "title": "People",
+    "section": "Student",
+    "text": "Student\n\n\nDP\nDwinda Putri\nBadan Riset dan Inovasi Nasional"
   },
   {
     "objectID": "data.html",
@@ -310,6 +338,13 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Maurent, Eliott, Bruno Hérault, Camille Piponiot, et al. 2023. “A Common Framework to Model Recovery in Disturbed Tropical Forests.” Ecological Modelling 483: 110418."
+  },
+  {
+    "objectID": "publications.html#year-2023",
+    "href": "publications.html#year-2023",
     "title": "Publications",
     "section": "",
     "text": "Maurent, Eliott, Bruno Hérault, Camille Piponiot, et al. 2023. “A Common Framework to Model Recovery in Disturbed Tropical Forests.” Ecological Modelling 483: 110418."
@@ -487,7 +522,7 @@
     "href": "sites/montagne-tortue.html#site-information",
     "title": "Montagne Tortue",
     "section": "Site information",
-    "text": "Site information\n\nCoordinates: 4° 13’ 12” N, 52° 24’ 48” W\nControl plots: 1\nLogged plots: 2\nPlot size (ha): 4\nCensus period: 2002-2023\nNumber of censuses: 10\nLogging year: 2005\nMinimum Diameter at Breast Height included (cm): 10"
+    "text": "Site information\n\nCoordinates: 4° 13’ 12” N, 52° 24’ 48” W\nControl plots: 1\nLogged plots: 2\nPlot size (ha): 4.5\nCensus period: 2002-2023\nNumber of censuses: 10\nLogging year: 2005\nMinimum Diameter at Breast Height included (cm): 10"
   },
   {
     "objectID": "sites/peixoto.html",
@@ -532,6 +567,13 @@
     "text": "Site information\n\nCoordinates: 4° 33’ 0” N, 117° 1’ 48” E\nControl plots: 4\nLogged plots: 16\nPlot size (ha): 1\nCensus period: 1992-2017\nNumber of censuses: 14\nLogging year: 1993\nMinimum Diameter at Breast Height included (cm): 10"
   },
   {
+    "objectID": "sites/suas.html#about",
+    "href": "sites/suas.html#about",
+    "title": "SUAS",
+    "section": "About this site",
+    "text": "About this site"
+  },
+  {
     "objectID": "sites/tapajos-km67.html",
     "href": "sites/tapajos-km67.html",
     "title": "Tapajós Km67",
@@ -544,47 +586,5 @@
     "title": "Tapajós Km67",
     "section": "Site information",
     "text": "Site information\n\nCoordinates: 2° 53’ 9” S, 54° 55’ 35” W\nControl plots: 18\nLogged plots: 48\nPlot size (ha): 0.25\nCensus period: 1981-2015\nNumber of censuses: 11\nLogging year: 1979, 2014\nMinimum Diameter at Breast Height included (cm): 5"
-  },
-  {
-    "objectID": "people.html#principal-investigator",
-    "href": "people.html#principal-investigator",
-    "title": "People",
-    "section": "",
-    "text": "AR\nAdemir Roberto Ruschel\nEmbrapa\n\n\nAK\nAnders Karlsson\nSLU\n\n\nBH\nBruno Hérault\nCIRAD\n\n\nCS\nCintia Rodrigues de Souza\nEmbrapa Amazonia Ocidental\n\n\nDB\nDavid F. R. P. Burslem\nUniversity of Aberdeen\n\n\nEV\nEdson Vidal\nESALQ\n\n\nED\nEstelle Dugachard\nONF-International\n\n\nEH\nEuridice Honorio\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nGD\nGeraldine Derroire\nCIRAD\n\n\nIZ\nIrie Casimir Zo-bi\nInstitut National Polytechnique Félix Houphouët-Boigny\n\n\nJA\nJhon del Aguila\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nKR\nKen Rodney\nIwokrama Timber Inc.\n\n\nMK\nMilton Kanashiro\nEmbrapa\n\n\nNA\nNataly Ascarrunz\nInstituto Boliviano de Investigación Forestal\n\n\nNS\nNur Hajar Zamah Shari\nForest Research Institute Malaysia\n\n\nOB\nOlivier Brunaux\nONF Guyane\n\n\nSC\nSamuel de Padua Chaves e Carvalho\nUMFT\n\n\nVW\nVerginia Wortel\nCelos\n\n\nVR\nVivien Rossi\nCIRAD\n\n\nAB\nAlan Bernardes\nONF Brasil"
-  },
-  {
-    "objectID": "people.html#coordinator",
-    "href": "people.html#coordinator",
-    "title": "People",
-    "section": "Coordinator",
-    "text": "Coordinator\n\n\nCamille Piponiot\nCIRAD\n\n\nPlinio Sist\nCIRAD"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\nEM\nEliott Maurent\nCIRAD"
-  },
-  {
-    "objectID": "people.html#collaborator",
-    "href": "people.html#collaborator",
-    "title": "People",
-    "section": "Collaborator",
-    "text": "Collaborator\n\n\nJP\nJack Putz\nUniversity of Florida\n\n\nLB\nLilian Blanc\nCIRAD\n\n\nMB\nMarie Ange Ngo Bieng\nCIRAD\n\n\nMP\nMarielos Pena-Claros\nWageningen University and Research\n\n\nMP\nMichelle A. Pinard\nUniversity of Aberdeen\n\n\nEB\nEthan Belair\nNature Conservancy\n\n\nRA\nRaphael Aussenac\nCIRAD, Institut National Polytechnique Félix Houphouët-Boigny"
-  },
-  {
-    "objectID": "people.html#student",
-    "href": "people.html#student",
-    "title": "People",
-    "section": "Student",
-    "text": "Student\n\n\nDP\nDwinda Putri\nBadan Riset dan Inovasi Nasional"
-  },
-  {
-    "objectID": "publications.html#year-2023",
-    "href": "publications.html#year-2023",
-    "title": "Publications",
-    "section": "",
-    "text": "Maurent, Eliott, Bruno Hérault, Camille Piponiot, et al. 2023. “A Common Framework to Model Recovery in Disturbed Tropical Forests.” Ecological Modelling 483: 110418."
   }
 ]
