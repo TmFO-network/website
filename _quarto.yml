@@ -32,10 +32,6 @@ website:
   
   page-navigation: true
   
-  search:
-    location: navbar
-    type: textbox
-  
   reader-mode: false
 
   repo-url: https://github.com/TmFO-network/website

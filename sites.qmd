@@ -14,7 +14,7 @@ library(leaflet)
 # --- read the data -----------------------------------------------------------
 sites <- read.csv("data/sites.csv", colClasses = "character",
                   strip.white = TRUE, fileEncoding = "UTF-8-BOM")
-required <- c("lon", "lat", "site", "years", "nb_control", "nb_logged", "plot_size")
+required <- c("lon", "lat", "site", "nb_control", "nb_logged", "plot_size")
 stopifnot("sites.csv is missing required column(s)" = all(required %in% names(sites)))
 
 sites$lon <- suppressWarnings(as.numeric(sites$lon))
@@ -36,10 +36,9 @@ esc <- htmltools::htmlEscape
 popup <- paste0(
   "<div class='site-popup'><h4>", esc(sites$site), "</h4>",
   "<table>",
-  "<tr><th>Inventory years</th><td>", esc(sites$years),      "</td></tr>",
-  "<tr><th>Control plots</th><td>",   esc(sites$nb_control), "</td></tr>",
-  "<tr><th>Logged plots</th><td>",    esc(sites$nb_logged),  "</td></tr>",
-  "<tr><th>Plot size</th><td>",       esc(sites$plot_size),  "</td></tr>",
+  "<tr><th>Plot size (ha)</th><td>", esc(sites$plot_size),  "</td></tr>",
+  "<tr><th>Number of logged plots</th><td>", esc(sites$nb_logged),  "</td></tr>",
+  "<tr><th>Number of control plots</th><td>", esc(sites$nb_control), "</td></tr>",
   "</table>",
   "<a href='sites/", slugify(sites$site), ".html'>Open site page &rarr;</a></div>"
 )
@@ -60,6 +59,22 @@ if (nrow(sites) == 1) {
   m <- fitBounds(m, min(sites$lon), min(sites$lat), max(sites$lon), max(sites$lat))
 }
 m
+```
+
+```{r}
+#| echo: false
+#| results: asis
+# List of all sites, one section per continent, in the order of sites.csv
+all_sites <- read.csv("data/sites.csv")
+
+md_escape <- function(x) gsub("([\\[\\]*_`<>\\\\])", "\\\\\\1", x, perl = TRUE)
+
+for (cont in unique(all_sites$continent)) {
+  s <- all_sites[all_sites$continent == cont, ]
+  cat("\n\n## ", md_escape(cont), "\n\n", sep = "")
+  cat(paste0("- [", md_escape(s$site), "](sites/", slugify(s$site), ".html)"), sep = "\n")
+  cat("\n")
+}
 ```
 
 ```{=html}
