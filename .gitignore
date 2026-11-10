@@ -22,5 +22,5 @@ Gemfile.lock
 **/*.quarto_ipynb
 
 cache/
-sites/
+/sites/
 people/
