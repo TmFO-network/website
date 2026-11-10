@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-  pre-render: Rscript r/generate_sites.R
+  pre-render: 
+    - Rscript r/generate_sites.R
+    - Rscript r/generate_people.R
 
 website:
   title: "TmFO network"

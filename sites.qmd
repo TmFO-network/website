@@ -10,6 +10,7 @@ Click a marker to see the site's metadata and a link to its page.
 #| message: false
 #| warning: false
 library(leaflet)
+source("r/utils.R")
 
 # --- read the data -----------------------------------------------------------
 sites <- read.csv("data/sites.csv", colClasses = "character",
@@ -66,8 +67,6 @@ m
 #| results: asis
 # List of all sites, one section per continent, in the order of sites.csv
 all_sites <- read.csv("data/sites.csv")
-
-md_escape <- function(x) gsub("([\\[\\]*_`<>\\\\])", "\\\\\\1", x, perl = TRUE)
 
 for (cont in unique(all_sites$continent)) {
   s <- all_sites[all_sites$continent == cont, ]

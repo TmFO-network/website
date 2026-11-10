@@ -19,6 +19,8 @@ read_sites <- function(path = "sites.csv") {
   sites[sites$site != "", , drop = FALSE]
 }
 
+md_escape <- function(x) gsub("([\\[\\]*_`<>\\\\])", "\\\\\\1", x, perl = TRUE)
+
 convert_coord <- function(val, is_lat) {
   if (is.na(val)) return(NA_character_)
   

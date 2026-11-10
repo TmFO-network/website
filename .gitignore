@@ -18,7 +18,8 @@ _site/
 Gemfile.lock
 .Rproj.user
 
-cache/
-sites/
 /.quarto/
 **/*.quarto_ipynb
+
+cache/
+sites/

@@ -1,37 +1,52 @@
 ---
 title: "People"
-#image: files/group.jpeg
 page-layout: full
-date-format: "YYYY-MM"
-listing:
-- id: coord-team
-  sort: "lastname asc"
-  type: grid
-  fields: [image, title, subtitle]
-  grid-item-align: center
-  grid-columns: 4
-  image-height: 200px
-  categories: true
-  contents: 
-    - /people/plinio-sist.yml  
-    - /people/camille-piponiot.yml
-  field-display-names: 
-      title: "Name"
-      subtitle: "Institution"
-
-page-navigation: false
-title-block-banner: false
-toc: false
-
-format:
-  html:
-    link-external-newwindow: true
 ---
 
+```{r}
+#| echo: false
+#| results: asis
+# Reads the YAML files in people/ (generated from people.csv by scripts/generate_people.R)
+source("r/utils.R")   # md_escape()
+esc <- htmltools::htmlEscape
 
-## Team
+initials <- function(x) {
+  w <- strsplit(trimws(x), "\\s+")[[1]]
+  toupper(paste0(substr(w[unique(c(1, length(w)))], 1, 1), collapse = ""))
+}
 
-:::{#coord-team}
-:::
+card <- function(p) {
+  name <- as.character(p$name)
+  inst <- if (is.null(p$institution)) "" else as.character(p$institution)
+  pic  <- if (!is.null(p$image)) {
+    paste0('<img src="', esc(p$image), '" alt="', esc(name), '" loading="lazy">')
+  } else {
+    paste0('<div class="avatar" aria-hidden="true">', esc(initials(name)), '</div>')
+  }
+  paste0('<div class="person">', pic,
+         '<div class="person-name">', esc(name), '</div>',
+         if (nzchar(inst)) paste0('<div class="person-inst">', esc(inst), '</div>') else "",
+         '</div>')
+}
 
+files <- sort(list.files("people", pattern = "\\.ya?ml$", full.names = TRUE))
+if (!length(files)) cat("*No people found - check people.csv.*\n")
 
+for (f in files) {
+  d <- yaml::read_yaml(f, fileEncoding = "UTF-8")
+  cards <- vapply(d$people, card, character(1))
+  cat("\n\n## ", md_escape(as.character(d$role)), "\n\n", sep = "")
+  cat("```{=html}\n<div class=\"people-grid\">\n", paste(cards, collapse = "\n"), "\n</div>\n```\n", sep = "")
+}
+```
+
+```{=html}
+<style>
+  .people-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 1.8rem 1.5rem; margin: 1rem 0 2.5rem; }
+  .person { text-align: center; }
+  .person img, .person .avatar { width: 130px; height: 130px; border-radius: 50%; object-fit: cover; margin: 0 auto .7rem; display: block; }
+  .person .avatar { display: flex; align-items: center; justify-content: center; background: #e5e7eb; color: #4b5563; font-size: 2.1rem; font-weight: 600; }
+  .person-name { font-weight: 600; }
+  .person-inst { font-size: .9rem; opacity: .7; }
+</style>
+```
