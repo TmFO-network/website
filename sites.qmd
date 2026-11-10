@@ -12,11 +12,8 @@ Click a marker to see the site's metadata and a link to its page.
 library(leaflet)
 source("r/utils.R")
 
-# --- read the data -----------------------------------------------------------
 sites <- read.csv("data/sites.csv", colClasses = "character",
                   strip.white = TRUE, fileEncoding = "UTF-8-BOM")
-required <- c("lon", "lat", "site", "nb_control", "nb_logged", "plot_size")
-stopifnot("sites.csv is missing required column(s)" = all(required %in% names(sites)))
 
 sites$lon <- suppressWarnings(as.numeric(sites$lon))
 sites$lat <- suppressWarnings(as.numeric(sites$lat))
@@ -24,14 +21,6 @@ bad <- is.na(sites$lon) | is.na(sites$lat) | sites$site == ""
 if (any(bad)) warning("Skipping ", sum(bad), " row(s) without valid site/lon/lat")
 sites <- sites[!bad, ]
 
-# --- helpers -----------------------------------------------------------------
-# must give the same result as slugify() in scripts/generate_sites.py
-slugify <- function(x) {
-  x <- stringi::stri_trans_general(x, "Any-Lower; NFD; [:Nonspacing Mark:] Remove")
-  x <- gsub("[^a-z0-9]+", "-", x)
-  x <- gsub("^-+|-+$", "", x)
-  ifelse(x == "", "site", x)
-}
 esc <- htmltools::htmlEscape
 
 popup <- paste0(
@@ -44,7 +33,6 @@ popup <- paste0(
   "<a href='sites/", slugify(sites$site), ".html'>Open site page &rarr;</a></div>"
 )
 
-# --- map ---------------------------------------------------------------------
 m <- leaflet(sites, width = "100%", height = "75vh") |>
   addProviderTiles(providers$OpenStreetMap) |>
   addCircleMarkers(

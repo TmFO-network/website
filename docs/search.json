@@ -1,0 +1,590 @@
+[
+  {
+    "objectID": "sites.html",
+    "href": "sites.html",
+    "title": "Sites",
+    "section": "",
+    "text": "Click a marker to see the site’s metadata and a link to its page."
+  },
+  {
+    "objectID": "sites.html#america",
+    "href": "sites.html#america",
+    "title": "Sites",
+    "section": "America",
+    "text": "America\n\nAntimary\nBAFOG\nChico Bocão\nCumaru\nEcosilva\nIracema\nIwokrama\nJari\nJenaro Herrera\nKabo\nManaré\nMil\nMisiones\nMoju\nMontagne Tortue\nParacou\nPeixoto\nPeteco\nSão Nicolau\nTapajós Km114\nTapajós Km67"
+  },
+  {
+    "objectID": "sites.html#southeast-asia",
+    "href": "sites.html#southeast-asia",
+    "title": "Sites",
+    "section": "Southeast Asia",
+    "text": "Southeast Asia\n\nMalinau\nSTREK\nSUAS"
+  },
+  {
+    "objectID": "sites.html#africa",
+    "href": "sites.html#africa",
+    "title": "Sites",
+    "section": "Africa",
+    "text": "Africa\n\nM’Baïki\nLa Téné"
+  },
+  {
+    "objectID": "sites/tapajos-km114.html",
+    "href": "sites/tapajos-km114.html",
+    "title": "Tapajós Km114",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/tapajos-km114.html#site-information",
+    "href": "sites/tapajos-km114.html#site-information",
+    "title": "Tapajós Km114",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 3° 19’ 0” S, 54° 56’ 28” W\nControl plots: 12\nLogged plots: 48\nPlot size (ha): 0.25\nCensus period: 1981-2012\nNumber of censuses: 8\nLogging year: 1982\nMinimum Diameter at Breast Height included (cm): 5"
+  },
+  {
+    "objectID": "sites/strek.html",
+    "href": "sites/strek.html",
+    "title": "STREK",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/strek.html#site-information",
+    "href": "sites/strek.html#site-information",
+    "title": "STREK",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 1° 54’ 53” N, 117° 14’ 2” E\nControl plots: 3\nLogged plots: 9\nPlot size (ha): 4\nCensus period: 1990-2024\nNumber of censuses: 7\nLogging year: 1991\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/peteco.html",
+    "href": "sites/peteco.html",
+    "title": "Peteco",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/peteco.html#site-information",
+    "href": "sites/peteco.html#site-information",
+    "title": "Peteco",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 3° 31’ 24” S, 48° 47’ 34” W\nControl plots: 12\nLogged plots: 23\nPlot size (ha): 0.25\nCensus period: 2003-2011\nNumber of censuses: 6\nLogging year: 2003"
+  },
+  {
+    "objectID": "sites/paracou.html",
+    "href": "sites/paracou.html",
+    "title": "Paracou",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/paracou.html#site-information",
+    "href": "sites/paracou.html#site-information",
+    "title": "Paracou",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 5° 16’ 8” N, 52° 55’ 48” W\nControl plots: 6\nLogged plots: 9\nPlot size (ha): 6.25\nCensus period: 1984-2022\nNumber of censuses: 33\nLogging year: 1986\nMinimum Diameter at Breast Height included (cm): 10\nWebsite: https://paracou.cirad.fr/"
+  },
+  {
+    "objectID": "sites/paracou.html#about",
+    "href": "sites/paracou.html#about",
+    "title": "Paracou",
+    "section": "About this site",
+    "text": "About this site"
+  },
+  {
+    "objectID": "sites/moju.html",
+    "href": "sites/moju.html",
+    "title": "Moju",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/moju.html#site-information",
+    "href": "sites/moju.html#site-information",
+    "title": "Moju",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 2° 9’ 25” S, 48° 47’ 50” W\nControl plots: 0\nLogged plots: 22\nPlot size (ha): 0.5\nCensus period: 1995-2015\nNumber of censuses: 5\nLogging year: 1997"
+  },
+  {
+    "objectID": "sites/mil.html",
+    "href": "sites/mil.html",
+    "title": "Mil",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/mil.html#site-information",
+    "href": "sites/mil.html#site-information",
+    "title": "Mil",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 2° 57’ 15” S, 58° 39’ 42” W\nControl plots: 0\nLogged plots: 41\nPlot size (ha): 1\nCensus period: 1996-2019\nNumber of censuses: 6\nLogging year: 1997-1998\nMinimum Diameter at Breast Height included (cm): 15"
+  },
+  {
+    "objectID": "sites/malinau.html",
+    "href": "sites/malinau.html",
+    "title": "Malinau",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/malinau.html#site-information",
+    "href": "sites/malinau.html#site-information",
+    "title": "Malinau",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 3° 1’ 6” N, 116° 30’ 34” E\nControl plots: 6\nLogged plots: 18\nPlot size (ha): 1\nCensus period: 1999-2015\nNumber of censuses: 6\nLogging year: 1999\nMinimum Diameter at Breast Height included (cm): 20"
+  },
+  {
+    "objectID": "sites/la-tene.html",
+    "href": "sites/la-tene.html",
+    "title": "La Téné",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/la-tene.html#site-information",
+    "href": "sites/la-tene.html#site-information",
+    "title": "La Téné",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 6° 31’ 30” N, 5° 28’ 50” W\nControl plots: 10\nLogged plots: 15\nPlot size (ha): 4\nCensus period: 2018-2018\nNumber of censuses: 1\nLogging year: 1978\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/jenaro-herrera.html",
+    "href": "sites/jenaro-herrera.html",
+    "title": "Jenaro Herrera",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/jenaro-herrera.html#site-information",
+    "href": "sites/jenaro-herrera.html#site-information",
+    "title": "Jenaro Herrera",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 4° 55’ 45” S, 73° 44’ 14” W\nControl plots: 2\nLogged plots: 7\nPlot size (ha): 1\nCensus period: 1993-2022\nNumber of censuses: 10\nLogging year: 1993-1994\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/iwokrama.html",
+    "href": "sites/iwokrama.html",
+    "title": "Iwokrama",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/iwokrama.html#site-information",
+    "href": "sites/iwokrama.html#site-information",
+    "title": "Iwokrama",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 4° 35’ 7” N, 58° 45’ 40” W\nControl plots: 6\nLogged plots: 13\nPlot size (ha): 1\nCensus period: 2008-2023\nNumber of censuses: 4\nLogging year: 2008, 2009, 2016, 2018, 2019, 2020\nMinimum Diameter at Breast Height included (cm): 20"
+  },
+  {
+    "objectID": "sites/ecosilva.html",
+    "href": "sites/ecosilva.html",
+    "title": "Ecosilva",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/ecosilva.html#site-information",
+    "href": "sites/ecosilva.html#site-information",
+    "title": "Ecosilva",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 3° 41’ 29” S, 48° 34’ 59” W\nControl plots: 0\nLogged plots: 18\nPlot size (ha): 1\nCensus period: 2004-2022\nNumber of censuses: 11\nLogging year: 2004\nMinimum Diameter at Breast Height included (cm): 20"
+  },
+  {
+    "objectID": "sites/chico-bocao.html",
+    "href": "sites/chico-bocao.html",
+    "title": "Chico Bocão",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/chico-bocao.html#site-information",
+    "href": "sites/chico-bocao.html#site-information",
+    "title": "Chico Bocão",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 9° 24’ 48” S, 68° 6’ 9” W\nControl plots: 0\nLogged plots: 7\nPlot size (ha): 1\nCensus period: 2001-2023\nNumber of censuses: 6\nLogging year: 2002\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/antimary.html",
+    "href": "sites/antimary.html",
+    "title": "Antimary",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/antimary.html#site-information",
+    "href": "sites/antimary.html#site-information",
+    "title": "Antimary",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 9° 18’ 46” S, 68° 15’ 58” W\nControl plots: 0\nLogged plots: 40\nPlot size (ha): 0.25\nCensus period: 2013-2023\nNumber of censuses: 4\nLogging year: 2011, 2013, 2017\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "AR\nAdemir Roberto Ruschel\nEmbrapa\n\n\nAK\nAnders Karlsson\nSLU\n\n\nBH\nBruno Hérault\nCIRAD\n\n\nCS\nCintia Rodrigues de Souza\nEmbrapa Amazonia Ocidental\n\n\nDB\nDavid F. R. P. Burslem\nUniversity of Aberdeen\n\n\nEV\nEdson Vidal\nESALQ\n\n\nED\nEstelle Dugachard\nONF-International\n\n\nEH\nEuridice Honorio\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nGD\nGeraldine Derroire\nCIRAD\n\n\nIZ\nIrie Casimir Zo-bi\nInstitut National Polytechnique Félix Houphouët-Boigny\n\n\nJA\nJhon del Aguila\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nKR\nKen Rodney\nIwokrama Timber Inc.\n\n\nMK\nMilton Kanashiro\nEmbrapa\n\n\nNA\nNataly Ascarrunz\nInstituto Boliviano de Investigación Forestal\n\n\nNS\nNur Hajar Zamah Shari\nForest Research Institute Malaysia\n\n\nOB\nOlivier Brunaux\nONF Guyane\n\n\nSC\nSamuel de Padua Chaves e Carvalho\nUMFT\n\n\nVW\nVerginia Wortel\nCelos\n\n\nVR\nVivien Rossi\nCIRAD\n\n\nAB\nAlan Bernardes\nONF Brasil"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "CIRAD\n\n\n\n\n\n\n\n\n\n\n\n\n\nCIRAD\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "TmFO prioritises sustaining research and capacity building in tropical countries. To this end, intellectual property (IP) is seen as a cornerstone, and TmFO strictly preserves the IP of all partner institutions. Data resides exclusively with the site leader(s) responsible for coordinating its collection or analysis. Raw data (i.e. forest inventories) are not shared among TmFO members. Each site leader provides basic summary statistics produced according to a commonly defined protocol (see data flow chart). These data remain the intellectual property of the site leaders and their respective institutions. IP is regulated according to the IP policies of the institution that owns the data.\nTmFO is indebted to many scientists, students, field assistants and technicians, who actively contributed to the set-up, data collection and maintenance of the different study sites. We are extremely grateful to them for enabling TmFO to exist and develop."
+  },
+  {
+    "objectID": "data.html#data-management-and-policy",
+    "href": "data.html#data-management-and-policy",
+    "title": "Data",
+    "section": "",
+    "text": "TmFO prioritises sustaining research and capacity building in tropical countries. To this end, intellectual property (IP) is seen as a cornerstone, and TmFO strictly preserves the IP of all partner institutions. Data resides exclusively with the site leader(s) responsible for coordinating its collection or analysis. Raw data (i.e. forest inventories) are not shared among TmFO members. Each site leader provides basic summary statistics produced according to a commonly defined protocol (see data flow chart). These data remain the intellectual property of the site leaders and their respective institutions. IP is regulated according to the IP policies of the institution that owns the data.\nTmFO is indebted to many scientists, students, field assistants and technicians, who actively contributed to the set-up, data collection and maintenance of the different study sites. We are extremely grateful to them for enabling TmFO to exist and develop."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "30 experimental sites located in 12 countries and three continents (Amazon Basin, Congo basin and West Africa, and South East Asia)\n657 permanent plots across South America, Africa and South East Asia\n1276 ha and 6+ million trees measured\nAverage survey duration: 19 years\n50+ researchers involved from 25 institutions"
+  },
+  {
+    "objectID": "about.html#tmfo-in-brief",
+    "href": "about.html#tmfo-in-brief",
+    "title": "About",
+    "section": "",
+    "text": "30 experimental sites located in 12 countries and three continents (Amazon Basin, Congo basin and West Africa, and South East Asia)\n657 permanent plots across South America, Africa and South East Asia\n1276 ha and 6+ million trees measured\nAverage survey duration: 19 years\n50+ researchers involved from 25 institutions"
+  },
+  {
+    "objectID": "about.html#network-structure",
+    "href": "about.html#network-structure",
+    "title": "About",
+    "section": "Network structure",
+    "text": "Network structure\nTmFO is coordinated by Cirad and supported by Cirad, the Consultative Group on International Agricultural Research (CGIAR) research program: Forest, Tree and Agroforestry (FTA), by ESA (European Space Agency) and the French Ministry of Foreign Affairs in support to the Alliance for the conservation of tropical rainforests. These financial supports have allowed the organization of meetings and technical workshops, PhD students, participation to international congresses and publications."
+  },
+  {
+    "objectID": "about.html#objectives",
+    "href": "about.html#objectives",
+    "title": "About",
+    "section": "Objectives",
+    "text": "Objectives\nTropical forests represent nearly half of the world’s forests and are home for over two thirds of all terrestrial species. However, tropical forests have been disappearing at alarming rates, replaced by cash crops and cattle ranches. Conservation of the remaining tropical forests is undoubtedly one of the main environmental challenges of 21st Century.\nAlthough efforts are needed to preserve undisturbed primary forests through the creation of protected areas, such efforts are not likely to be sufficient to preserve the extraordinary biodiversity and functional services of tropical forests worldwide. Moreover, nearly two thirds of the remaining forests are managed and secondary. The role played by managed forests in the conservation of biodiversity and provision of environmental services (e.g., carbon sequestration, water purification, and provision of non-timber forest products) is becoming more important daily. Nevertheless, managed and secondary forests remain generally perceived as being of low environmental value and are likely to be converted into other land uses. To change this perception and to maintain the remaining tropical forests outside of strict protected areas, efficient and sustainable management practices need to be developed and applied. By “sustainable management” we here refer to evidence-based silvicultural practices that secure forest regeneration and maintain the viability of the forestry sector.\nCurrently, about 400 million hectares of tropical moist forests are designated as ‘production forests’, about a quarter of which is managed by rural communities and indigenous people. A challenge for all managers is the gap in current knowledge about the relationship between long-term sustainability of timber harvests and the maintenance of vital functions of these ecosystems. Indeed, it is essential to assess the capacity of tropical forests to regenerate after logging to understand the long-lasting effects of harvests on wood production, biodiversity, and carbon emissions. Such studies, which are currently lacking, are needed for evidence-based silvicultural recommendations to both policy-makers and forest practitioners.\nThe Tropical managed Forests Observatory (TmFO) aims to assess the impact of selective logging on forest dynamics, carbon storage, and tree species composition in the Amazon Basin, Congo Basin, and South East Asia. To do this, TmFO’s researchers are helping each other with the analysis of permanent sample plot data and collaborating on a meta-analysis of their findings. The permanent sample plot network of TmFO so far includes 24 experimental sites, 462 plots representing an area of &gt;1000 ha and a total of nearly 1000 years of monitoring. The results are expected to provide key insights about forest responses to logging at plot, forest, and regional scales. With this information, TmFO can make informed recommendations that will lead towards more sustainable and profitable tropical forest management."
+  },
+  {
+    "objectID": "about.html#main-research-questions",
+    "href": "about.html#main-research-questions",
+    "title": "About",
+    "section": "Main research questions",
+    "text": "Main research questions\nTmFO will notably address the following questions:\n\nHow resilient are tropical forests to logging disturbances ?\nWhat is the conservation value of managed natural forests ?\nIs there a trade-off between economical and environmental sustainability ?\nHow does forest responses vary across regions and continents ?\n\nTo answer these questions, TmFO will focus on the long-term impact of logging on three main ecosystem services: timber production,carbon sequestration and biodiversity."
+  },
+  {
+    "objectID": "about.html#towards-sustainable-timber-production-and-environmental-services",
+    "href": "about.html#towards-sustainable-timber-production-and-environmental-services",
+    "title": "About",
+    "section": "Towards sustainable timber production and environmental services",
+    "text": "Towards sustainable timber production and environmental services\nTropical forest managements has been most exclusively guided by timber production and logging companies managing large concessions. For more than twenty years, rural populations (i.e. traditional forest communities, farmers) have played a growing role in the forest sector. These new stakeholders have their own perceptions and approaches, geared not only towards timber production, but also towards the use of numerous other resources, such as non-timber forest products (NTFP), or ecotourism. Tropical silviculture needs to adapt to this new context (diversity of players, products and perceptions) and to meet multiple management objectives, such as logging and NTFPs within the same forestry production unit (Guariguata et al. 2011). In addition, the emergence of new payment for environmental services markets opens up economic development possibilities for the environmental services provided by forests. Of these, biodiversity and carbon storage are by far the ones attracting most attention. The silviculture of tomorrow will therefore also have to take into account any compromises between production of goods (timber, NTFP) and the conservation of services (biodiversity, carbon)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "E-mail adddress: contact@tmfo.org"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TmFO",
+    "section": "",
+    "text": "TmFO — Tropical managed Forests Observatory\nTmFO is a network that aims to understand the long-term effects of selective logging on tropical forest ecosystems. It encompasses over 600 permanent forest plots located across the tropics that have been subjected to selective logging and have been continuously monitored since then.\nTmFO is an open network, and all scientists, institutions and NGOs interested in the resilience of managed tropical forests are welcome to join."
+  },
+  {
+    "objectID": "index.html#tmfo-partners",
+    "href": "index.html#tmfo-partners",
+    "title": "TmFO",
+    "section": "TmFO partners",
+    "text": "TmFO partners"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Maurent, Eliott, Bruno Hérault, Camille Piponiot, et al. 2023. “A Common Framework to Model Recovery in Disturbed Tropical Forests.” Ecological Modelling 483: 110418."
+  },
+  {
+    "objectID": "publications.html#year-2021",
+    "href": "publications.html#year-2021",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\n\nSist, P. 2021. “Cut Less, Leave Longer: Decades of Data Show We Are over-Exploiting Tropical Rainforests.” The Conversation-France. https://theconversation.com/cut-less-leave-longer-decades-of-data-show-we-are-over-exploiting-tropical-rainforests-167426.\n\n\nSist, P., C. Piponiot, M. Kanashiro, et al. 2021. “Sustainability of Brazilian Forest Concessions.” Forest Ecology and Management 496: 119440."
+  },
+  {
+    "objectID": "publications.html#year-2019",
+    "href": "publications.html#year-2019",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\n\nLussetti, Daniel, Kristi Kuljus, Bo Ranneby, Ulrik Ilstedt, Jan Falck, and Anders Karlsson. 2019. “Using Linear Mixed Models to Evaluate Stand Level Growth Rates for Dipterocarps and Macaranga Species Following Two Selective Logging Methods in Sabah, Borneo.” Forest Ecology and Management 437: 372–79.\n\n\nPiponiot, C., E. Rödig, F. E. Putz, et al. 2019. “Can Timber Provision from Amazonian Production Forests Be Sustainable?” Environmental Research Letters 14 (6): 064014. https://doi.org/10.1088/1748-9326/ab195e.\n\n\nPiponiot, C., E. Rutishauser, G. Derroire, et al. 2019. “Optimal Strategies for Ecosystem Services Provision in Amazonian Production Forests.” Environmental Research Letters 14 (12): 124090. https://doi.org/10.1088/1748-9326/ab5eb1."
+  },
+  {
+    "objectID": "publications.html#year-2018",
+    "href": "publications.html#year-2018",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\n\nPiponiot, C., G. Derroire, L. Descroix, et al. 2018. “Assessing Timber Volume Recovery After Disturbance in Tropical Forests – a New Modelling Framework.” Ecological Modelling, ahead of print. https://doi.org/10.1016/j.ecolmodel.2018.05.023.\n\n\nRozak, A. H., E. Rutishauser, Raulund-Rasmussen, and P. Sist. 2018. “The Imprint of Logging on Tropical Forest Carbon Stocks: A Bornean Case Study.” Forest Ecology and Management 417: 154–66."
+  },
+  {
+    "objectID": "publications.html#year-2016",
+    "href": "publications.html#year-2016",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\n\n\nPiponiot, C., A. Cabon, L. Descroix, et al. 2016. “A Methodological Framework to Assess the Carbon Balance of Tropical Managed Forests.” Carbon Balance and Management 11: 15. https://doi.org/10.1186/s13021-016-0056-7.\n\n\nPiponiot, C., P. Sist, L. Mazzei, et al. 2016. “Carbon Recovery Dynamics Following Disturbance by Selective Logging in Amazonian Forests.” eLife 5: e21394. https://doi.org/10.7554/eLife.21394.\n\n\nRutishauser, E., B. Hérault, P. Petronelli, and P. Sist. 2016. “Tree Height Reduction After Selective Logging in a Tropical Forest.” Biotropica 48: 285–89. https://doi.org/10.1111/btp.12326."
+  },
+  {
+    "objectID": "publications.html#year-2015",
+    "href": "publications.html#year-2015",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\n\nAvila, A. L. de, A. R. Ruschel, J. O. P. de Carvalho, et al. 2015. “Medium-Term Dynamics of Tree Species Composition in Response to Silvicultural Intervention Intensities in a Tropical Rain Forest.” Biological Conservation 191: 577–86. https://doi.org/10.1016/j.biocon.2015.08.004.\n\n\nFinegan, B. 2015. “A 21st Century Viewpoint on Natural Tropical Forest Silviculture.” In Tropical Forestry Handbook, edited by M. Köhl and L. Pancel. Springer Berlin Heidelberg.\n\n\nRutishauser, E., B. Hérault, C. Baraloto, et al. 2015. “Rapid Tree Carbon Stock Recovery in Managed Amazonian Forests.” Current Biology 25 (18): R787–88. https://doi.org/10.1016/j.cub.2015.07.034.\n\n\nShenkin, A., B. Bolker, M. Peña-Claros, J. C. Licona, and F. E. Putz. 2015. “Fates of Trees Damaged by Logging in Amazonian Bolivia.” Forest Ecology and Management 357: 50–59. https://doi.org/10.1016/j.foreco.2015.08.009.\n\n\nSist, P., P. Pacheco, R. Nasi, and J. Blaser. 2015. Management of Natural Tropical Forests for the Future. IUFRO WFSE Issue Brief 1/2015. IUFRO. http://www.iufro.org/science/special/wfse/."
+  },
+  {
+    "objectID": "publications.html#year-2014",
+    "href": "publications.html#year-2014",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\n\nJalonen, R., L. T. Hong, S. L. Lee, J. Loo, and L. Snook. 2014. “Integrating Genetic Factors into Management of Tropical Asian Production Forest: A Review of Current Knowledge.” Forest Ecology and Management 315: 191–201.\n\n\nMedjibe, V. P., J. R. Poulsen, C. J. Clark, and O. A. Mbani. 2014. “Natural Regeneration of Selected Timber Species in the Republic of Congo.” African Journal of Ecology, ahead of print. https://doi.org/10.1111/aje.12167.\n\n\nRuslandi, A. Roopsind, P. Sist, M. Peña-Claros, R. Thomas, and F. E. Putz. 2014. “Beyond Equitable Data Sharing to Improve Tropical Forest Management.” International Forestry Review 16 (4): 497–503.\n\n\nSist, P., L. Mazzei, L. Blanc, and E. Rutishauser. 2014. “Large Trees as Key Elements of Carbon Storage and Dynamics After Selective Logging in the Eastern Amazon.” Forest Ecology and Management 318: 103–9.\n\n\nSist, P., E. Rutishauser, M. Peña-Claros, et al. 2014. “The Tropical Managed Forests Observatory: A Research Network Addressing the Future of Tropical Logged Forests.” Applied Vegetation Science, ahead of print. https://doi.org/10.1111/avsc.12125.\n\n\nWest, T. A. P., E. Vidal, and F. E. Putz. 2014. “Forest Biomass Recovery After Conventional and Reduced-Impact Logging in Amazonian Brazil.” Forest Ecology and Management 314: 59–63. https://doi.org/10.1016/j.foreco.2013.11.022."
+  },
+  {
+    "objectID": "publications.html#year-2013",
+    "href": "publications.html#year-2013",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\n\n\nPutz, F. E., P. A. Zuidema, T. Synnott, et al. 2013. “A More Realistic Portrayal of Tropical Forestry: Response to Kormos and Zimmerman.” Conservation Letters."
+  },
+  {
+    "objectID": "sites/bafog.html",
+    "href": "sites/bafog.html",
+    "title": "BAFOG",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/bafog.html#site-information",
+    "href": "sites/bafog.html#site-information",
+    "title": "BAFOG",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 5° 28’ 29” N, 53° 57’ 44” W\nControl plots: 4\nLogged plots: 3\nPlot size (ha): 1\nCensus period: 1968-2022\nNumber of censuses: 10\nLogging year: 1942-1945\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/cumaru.html",
+    "href": "sites/cumaru.html",
+    "title": "Cumaru",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/cumaru.html#site-information",
+    "href": "sites/cumaru.html#site-information",
+    "title": "Cumaru",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 9° 26’ 1” S, 68° 3’ 45” W\nControl plots: 0\nLogged plots: 7\nPlot size (ha): 1\nCensus period: 2002-2023\nNumber of censuses: 5\nLogging year: 2004\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/iracema.html",
+    "href": "sites/iracema.html",
+    "title": "Iracema",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/iracema.html#site-information",
+    "href": "sites/iracema.html#site-information",
+    "title": "Iracema",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 9° 38’ 44” S, 66° 41’ 34” W\nControl plots: 0\nLogged plots: 30\nPlot size (ha): 1\nCensus period: 2002-2022\nNumber of censuses: 7\nLogging year: 2003\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/jari.html",
+    "href": "sites/jari.html",
+    "title": "Jari",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/jari.html#site-information",
+    "href": "sites/jari.html#site-information",
+    "title": "Jari",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 0° 54’ 45” S, 52° 11’ 15” W\nControl plots: 4\nLogged plots: 36\nPlot size (ha): 1\nCensus period: 1984-2011\nNumber of censuses: 8\nLogging year: 1985\nMinimum Diameter at Breast Height included (cm): 20"
+  },
+  {
+    "objectID": "sites/kabo.html",
+    "href": "sites/kabo.html",
+    "title": "Kabo",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/kabo.html#site-information",
+    "href": "sites/kabo.html#site-information",
+    "title": "Kabo",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 5° 15’ 29” N, 55° 46’ 5” W\nControl plots: 3\nLogged plots: 9\nPlot size (ha): 1\nCensus period: 1978-2012\nNumber of censuses: 5\nLogging year: 1979\nMinimum Diameter at Breast Height included (cm): 15"
+  },
+  {
+    "objectID": "sites/m-baiki.html",
+    "href": "sites/m-baiki.html",
+    "title": "M’Baïki",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/m-baiki.html#site-information",
+    "href": "sites/m-baiki.html#site-information",
+    "title": "M’Baïki",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 3° 51’ 24” N, 17° 53’ 5” E\nControl plots: 3\nLogged plots: 7\nPlot size (ha): 4\nCensus period: 1982-2022\nNumber of censuses: 35\nLogging year: 1986\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/manare.html",
+    "href": "sites/manare.html",
+    "title": "Manaré",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/manare.html#site-information",
+    "href": "sites/manare.html#site-information",
+    "title": "Manaré",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 4° 8’ 14” N, 52° 11’ 38” W\nControl plots: 1\nLogged plots: 2\nPlot size (ha): 4\nCensus period: 2003-2020\nNumber of censuses: 7\nLogging year: 2010\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/misiones.html",
+    "href": "sites/misiones.html",
+    "title": "Misiones",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/misiones.html#site-information",
+    "href": "sites/misiones.html#site-information",
+    "title": "Misiones",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 26° 55’ 0” S, 54° 14’ 4” W\nControl plots: 4\nLogged plots: 14\nPlot size (ha): 1\nCensus period: 1998-2019\nNumber of censuses: 8\nLogging year: 1999\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/montagne-tortue.html",
+    "href": "sites/montagne-tortue.html",
+    "title": "Montagne Tortue",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/montagne-tortue.html#site-information",
+    "href": "sites/montagne-tortue.html#site-information",
+    "title": "Montagne Tortue",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 4° 13’ 12” N, 52° 24’ 48” W\nControl plots: 1\nLogged plots: 2\nPlot size (ha): 4\nCensus period: 2002-2023\nNumber of censuses: 10\nLogging year: 2005\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/peixoto.html",
+    "href": "sites/peixoto.html",
+    "title": "Peixoto",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/peixoto.html#site-information",
+    "href": "sites/peixoto.html#site-information",
+    "title": "Peixoto",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 9° 45’ 49” S, 67° 6’ 54” W\nControl plots: 0\nLogged plots: 11\nPlot size (ha): 1\nCensus period: 1996-2006\nNumber of censuses: 5\nLogging year: 1997"
+  },
+  {
+    "objectID": "sites/sao-nicolau.html",
+    "href": "sites/sao-nicolau.html",
+    "title": "São Nicolau",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/sao-nicolau.html#site-information",
+    "href": "sites/sao-nicolau.html#site-information",
+    "title": "São Nicolau",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 9° 48’ 51” S, 58° 16’ 54” W\nControl plots: 6\nLogged plots: 6\nPlot size (ha): 1\nCensus period: 2019-2023\nNumber of censuses: 3\nLogging year: 2019\nMinimum Diameter at Breast Height included (cm): 20"
+  },
+  {
+    "objectID": "sites/suas.html",
+    "href": "sites/suas.html",
+    "title": "SUAS",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/suas.html#site-information",
+    "href": "sites/suas.html#site-information",
+    "title": "SUAS",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 4° 33’ 0” N, 117° 1’ 48” E\nControl plots: 4\nLogged plots: 16\nPlot size (ha): 1\nCensus period: 1992-2017\nNumber of censuses: 14\nLogging year: 1993\nMinimum Diameter at Breast Height included (cm): 10"
+  },
+  {
+    "objectID": "sites/tapajos-km67.html",
+    "href": "sites/tapajos-km67.html",
+    "title": "Tapajós Km67",
+    "section": "",
+    "text": "← Back to the map"
+  },
+  {
+    "objectID": "sites/tapajos-km67.html#site-information",
+    "href": "sites/tapajos-km67.html#site-information",
+    "title": "Tapajós Km67",
+    "section": "Site information",
+    "text": "Site information\n\nCoordinates: 2° 53’ 9” S, 54° 55’ 35” W\nControl plots: 18\nLogged plots: 48\nPlot size (ha): 0.25\nCensus period: 1981-2015\nNumber of censuses: 11\nLogging year: 1979, 2014\nMinimum Diameter at Breast Height included (cm): 5"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "AR\nAdemir Roberto Ruschel\nEmbrapa\n\n\nAK\nAnders Karlsson\nSLU\n\n\nBH\nBruno Hérault\nCIRAD\n\n\nCS\nCintia Rodrigues de Souza\nEmbrapa Amazonia Ocidental\n\n\nDB\nDavid F. R. P. Burslem\nUniversity of Aberdeen\n\n\nEV\nEdson Vidal\nESALQ\n\n\nED\nEstelle Dugachard\nONF-International\n\n\nEH\nEuridice Honorio\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nGD\nGeraldine Derroire\nCIRAD\n\n\nIZ\nIrie Casimir Zo-bi\nInstitut National Polytechnique Félix Houphouët-Boigny\n\n\nJA\nJhon del Aguila\nInstituto de Investigaciones de la Amazonía Peruana\n\n\nKR\nKen Rodney\nIwokrama Timber Inc.\n\n\nMK\nMilton Kanashiro\nEmbrapa\n\n\nNA\nNataly Ascarrunz\nInstituto Boliviano de Investigación Forestal\n\n\nNS\nNur Hajar Zamah Shari\nForest Research Institute Malaysia\n\n\nOB\nOlivier Brunaux\nONF Guyane\n\n\nSC\nSamuel de Padua Chaves e Carvalho\nUMFT\n\n\nVW\nVerginia Wortel\nCelos\n\n\nVR\nVivien Rossi\nCIRAD\n\n\nAB\nAlan Bernardes\nONF Brasil"
+  },
+  {
+    "objectID": "people.html#coordinator",
+    "href": "people.html#coordinator",
+    "title": "People",
+    "section": "Coordinator",
+    "text": "Coordinator\n\n\nCamille Piponiot\nCIRAD\n\n\nPlinio Sist\nCIRAD"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\nEM\nEliott Maurent\nCIRAD"
+  },
+  {
+    "objectID": "people.html#collaborator",
+    "href": "people.html#collaborator",
+    "title": "People",
+    "section": "Collaborator",
+    "text": "Collaborator\n\n\nJP\nJack Putz\nUniversity of Florida\n\n\nLB\nLilian Blanc\nCIRAD\n\n\nMB\nMarie Ange Ngo Bieng\nCIRAD\n\n\nMP\nMarielos Pena-Claros\nWageningen University and Research\n\n\nMP\nMichelle A. Pinard\nUniversity of Aberdeen\n\n\nEB\nEthan Belair\nNature Conservancy\n\n\nRA\nRaphael Aussenac\nCIRAD, Institut National Polytechnique Félix Houphouët-Boigny"
+  },
+  {
+    "objectID": "people.html#student",
+    "href": "people.html#student",
+    "title": "People",
+    "section": "Student",
+    "text": "Student\n\n\nDP\nDwinda Putri\nBadan Riset dan Inovasi Nasional"
+  },
+  {
+    "objectID": "publications.html#year-2023",
+    "href": "publications.html#year-2023",
+    "title": "Publications",
+    "section": "",
+    "text": "Maurent, Eliott, Bruno Hérault, Camille Piponiot, et al. 2023. “A Common Framework to Model Recovery in Disturbed Tropical Forests.” Ecological Modelling 483: 110418."
+  }
+]
